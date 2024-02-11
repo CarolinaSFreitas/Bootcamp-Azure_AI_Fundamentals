@@ -1,5 +1,7 @@
 # 🧪 Lab01 - Machine Learning, Regressão
 
+- https://ml.azure.com/ 
+
 1. Seguindo os passos da documentação "https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace" é possível facilmente criar o laboratório de Machine Learning Automatizado mostrado no curso "Trabalhando com Machine Learning na Prática no Azure ML"
 
 - No Azure Portal, ir em "Create a resource" e buscar por "Machine learning"

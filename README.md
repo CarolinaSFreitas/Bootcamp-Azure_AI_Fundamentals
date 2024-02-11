@@ -15,11 +15,11 @@
 - No Azure Portal, ir em "Create a resource" e buscar por "Machine learning"
 - Preencher os campos de criação conforme suas preferências de nome
 
-![create-ml-resource](image2.png)
+![create-ml-resource](imgs/image2.png)
 
 - Quando a validação acabar, vá em "Create" e assim o resource terá sido criado. Após esses passos, clique no botão "Launch studio" para ir ao Studio de IA do Azure
 
-![launch-studio](image3.png)
+![launch-studio](imgs/image3.png)
 
 - Dentro do Studio vá até "ML Automatizado" para criar um Novo Trabalho de Machine Learning Automatizado
 - Nessa etapa deve ser configurado o job, usando as seguintes configurações básicas:
@@ -79,7 +79,7 @@
 
 - Clicando em "Create" vai abrir um formulário pra sincronizar com o modelo criado anteriormente, após selecionar, o processo de criação de ponto de extremidade começará. Esse processo pode demorar, basta aguardar.
 
-![create-point-tests](image4.png)
+![create-point-tests](imgs/image4.png)
 
 4. Testando o Modelo
 
@@ -113,5 +113,5 @@
 - Ao testar usando o json, é necessário alterar o "Inputs" do template e doc para "input_data", como está no json acima
 - Após isso, clicando no botão de testar o resultado será mostrado:
 
-![test-lab01](image.png)
+![test-lab01](imgs/image.png)
 

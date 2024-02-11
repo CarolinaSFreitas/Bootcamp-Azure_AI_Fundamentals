@@ -8,7 +8,7 @@
 
 ## 👣 Passos dos Laboratórios 
 
-### Lab01 - Regressão
+### 🧪 Lab01 - Regressão
 
 1. Seguindo os passos da documentação "https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace" é possível facilmente criar o laboratório de Machine Learning Automatizado mostrado no curso "Trabalhando com Machine Learning na Prática no Azure ML"
 

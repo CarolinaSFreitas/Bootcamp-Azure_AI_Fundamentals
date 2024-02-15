@@ -14,3 +14,5 @@
 - [🧪 Lab04 - Inteligência de Documentos e Mineração de Conhecimento](#)
 - [🧪 Lab05 - IA Generativa](#)
 
+### 📑 Docs úteis:
+- https://microsoftlearning.github.io/mslearn-ai900/

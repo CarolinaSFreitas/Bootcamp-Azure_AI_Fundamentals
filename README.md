@@ -10,7 +10,7 @@
 
 - [🧪 Lab01 - Machine Learning, Regressão](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/blob/b517c64e8195df8e891fcd5207385535d576b8c9/Lab01-MachineLearning/README.md)
 - [🧪 Lab02 - Visão Computacional](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/blob/b517c64e8195df8e891fcd5207385535d576b8c9/Lab02-Vis%C3%A3oComputacional/README.md)
-- [🧪 Lab03 - Processamento de Linguagem Natural](#)
+- [🧪 Lab03 - Processamento de Linguagem Natural](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/tree/main/Lab03-Proc.LinguagemNatural)
 - [🧪 Lab04 - Inteligência de Documentos e Mineração de Conhecimento](#)
 - [🧪 Lab05 - IA Generativa](#)
 

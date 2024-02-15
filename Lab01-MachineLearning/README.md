@@ -2,6 +2,8 @@
 
 - https://ml.azure.com/ 
 
+O Azure Machine Learning (Azure ML) é um serviço de nuvem que permite aos desenvolvedores e cientistas de dados construir, treinar e implantar modelos de machine learning de forma escalável e eficiente. Ele oferece uma variedade de recursos, incluindo o provisionamento de infraestrutura, gerenciamento de dados, treinamento de modelos, experimentação, monitoramento e implantação de modelos em produção. Com o Azure ML, os usuários podem explorar e implementar algoritmos de machine learning, realizar análises avançadas e criar soluções personalizadas para uma variedade de cenários de negócios.
+
 1. Seguindo os passos da [documentação](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace) é possível facilmente criar o laboratório de Machine Learning Automatizado mostrado no curso "Trabalhando com Machine Learning na Prática no Azure ML"
 
 - No Azure Portal, ir em "Create a resource" e buscar por "Machine learning"

@@ -2,7 +2,7 @@
 
 - https://portal.vision.cognitive.azure.com/
 
-## Nesse lab do módulo 2 serão feitos laboratórios relacionados a: **Reconhecimento Facial, Reconhecimento de Dados e Reconhecimento de Imagens**
+## Laboratórios relacionados a: **Reconhecimento Facial, Reconhecimento de Dados e Reconhecimento de Imagens**
 
 O Portal Vision Cognitive oferece funcionalidades de reconhecimento facial, reconhecimento de caracteres em imagens e geração de legendas descritivas para imagens.
 

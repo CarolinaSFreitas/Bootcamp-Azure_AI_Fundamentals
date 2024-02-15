@@ -3,7 +3,7 @@
 - https://speech.microsoft.com/
 - https://language.cognitive.azure.com/
 
-## Nesse lab do módulo 3 serão feitos laboratórios relacionados aos estúdios Speech Studio e Language Studio
+## Laboratórios relacionados aos estúdios Speech Studio e Language Studio
 Docs úteis: 
 - https://microsoftlearning.github.io/mslearn-ai900/
 

@@ -1,4 +1,4 @@
-# 🧪 Lab01 - Machine Learning, Regressão
+# 🧪 Lab01 - Machine Learning
 
 - https://ml.azure.com/ 
 

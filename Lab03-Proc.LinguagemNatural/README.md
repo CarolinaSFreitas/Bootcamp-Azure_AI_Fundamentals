@@ -1,4 +1,4 @@
-# 🧪 Lab03 - Visão Computacional 
+# 🧪 Lab03 - Processamento de Linguagem Natural
 
 - https://speech.microsoft.com/
 - https://language.cognitive.azure.com/

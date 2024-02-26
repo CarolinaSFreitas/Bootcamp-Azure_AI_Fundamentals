@@ -12,7 +12,7 @@
 - [🧪 Lab02 - Visão Computacional](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/tree/abb631893b26b75a5b058a267433c4f9ac1dec54/Lab02-Vis%C3%A3oComputacional)
 - [🧪 Lab03 - Processamento de Linguagem Natural](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/tree/main/Lab03-Proc.LinguagemNatural/)
 - [🧪 Lab04 - Inteligência de Documentos e Mineração de Conhecimento](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/tree/main/Lab04-Intelig.Docs)
-- [🧪 Lab05 - IA Generativa](#)
+- [🧪 Lab05 - IA Generativa](https://github.com/CarolinaSFreitas/Bootcamp-Azure_AI_Fundamentals/tree/main/Lab05-IAGenerativa)
 
 ### 📑 Docs úteis:
 - https://microsoftlearning.github.io/mslearn-ai900/

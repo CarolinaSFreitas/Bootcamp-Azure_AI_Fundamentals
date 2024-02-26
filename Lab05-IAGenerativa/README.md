@@ -14,7 +14,7 @@
 
 ![The Cranberries](../imgs/the-cranb.png)
 
-O serviço consegue interpretar e extrair texto até mesmo em imagens com condições de iluminação desafiadoras, como esta imagem que parece ter uma iluminação mais escura e o serviço ainda consegue compreender as letras feitas à mão.
+O serviço consegue interpretar e extrair texto até mesmo em imagens com condições de iluminação desafiadoras, como esta imagem que tem uma iluminação mais escura e o serviço ainda consegue compreender as letras feitas à mão.
 
 ![Harry Potter Carta](../imgs/hp-carta.png)
 
